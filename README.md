@@ -55,6 +55,7 @@ Achieved up to XX% accuracy using
 Improved performance after feature scaling and hyperparameter tuning
 
 Author: Vidit Gupta
+
 Intern id : CT06DN838
 
 
